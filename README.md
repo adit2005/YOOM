@@ -1,6 +1,7 @@
 # Yoom - A Zoom Clone Built with Next.js and TypeScript
 
-**Yoom** is a video conferencing application inspired by Zoom, built using the latest web technologies to provide a secure platform for creating, managing, and joining meetings. It includes a range of advanced features for a seamless online communication experience.
+**Yoom** is a video conferencing application inspired by Zoom, built using the latest technologies such as Next.js, TypeScript, Clerk, and getstream. It offers a secure platform for creating and managing meetings with features like real-time audio/video communication, screen sharing, participant management, meeting scheduling, and much more.
+
 
 ## Table of Contents
 - [Features](#-features)
