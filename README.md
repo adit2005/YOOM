@@ -3,14 +3,6 @@
 **Yoom** is a video conferencing application inspired by Zoom, built using the latest technologies such as Next.js, TypeScript, Clerk, and getstream. It offers a secure platform for creating and managing meetings with features like real-time audio/video communication, screen sharing, participant management, meeting scheduling, and much more.
 
 
-## Table of Contents
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Quick Start](#-quick-start)
-- [Code Snippets](#-code-snippets)
-- [Additional Resources](#-additional-resources)
-- [Contributing](#-contributing)
-
 ## 🚀 Features
 
 - **Authentication**: Secure user login using Clerk with options for social sign-on and traditional email/password methods.
